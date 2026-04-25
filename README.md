@@ -147,3 +147,10 @@ else {
 📄 Licença
 
 Este projeto é de uso educacional.
+
+Equipe:
+
+-Luiz Alberto De Carvalho Holanda Junior;
+-Felipe Ribeiro Da Silva;
+-Milena Kubo de Biaggi;
+-Yasmim Eun Hae Kim;
