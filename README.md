@@ -8,6 +8,7 @@ Este projeto foi desenvolvido como parte de um desafio proposto pela Vinheria Ag
 
 A luminosidade é um fator crítico que pode impactar diretamente a qualidade do vinho. Portanto, o sistema coleta dados do ambiente e sinaliza possíveis problemas por meio de LEDs e um buzzer.
 
+![alt text](image.png)
 
 🎯 Objetivos
 - Monitorar a luminosidade do ambiente utilizando um sensor LDR.
